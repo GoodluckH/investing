@@ -1,4 +1,4 @@
-## Investment Notes Repo
+## Investment Notes
 Why not open-source my investment research process? While it's unclear how many GitHub users are hard-core fundamental investors, I thought it would be beneficial to publish my investment ideas through GitHub because developers are probably not frequent vistors to some investor online communities.
 
 
